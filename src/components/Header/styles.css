@@ -1,0 +1,41 @@
+section {
+  padding: 25px;
+  background-color: #002D4B;
+  border-bottom: 1px solid #fff;
+}
+      
+.operations-header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 410px;
+    max-height: 110px;
+}
+
+p {
+    padding: 15px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .login-data {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-left: 10px;
+
+    
+  }
+  p {
+    padding: 15px;
+  }
+
+  .profile {
+    border-radius: 80px;
+    width: 100px;
+    height: 100px;
+  }
